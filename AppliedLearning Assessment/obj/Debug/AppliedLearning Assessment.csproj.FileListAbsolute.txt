@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\AppliedLearning Assessment\AppliedLearning Assessment\bin\Debug\AppliedLearning Assessment.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\AppliedLearning Assessment\AppliedLearning Assessment\obj\Debug\AppliedLearning Assessment.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\AppliedLearning Assessment\AppliedLearning Assessment\bin\Debug\AppliedLearning Assessment.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\AppliedLearning Assessment\AppliedLearning Assessment\bin\Debug\AppliedLearning Assessment.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\AppliedLearning Assessment\AppliedLearning Assessment\obj\Debug\AppliedLearning Assessment.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\AppliedLearning Assessment\AppliedLearning Assessment\obj\Debug\AppliedLearning Assessment.pdb
